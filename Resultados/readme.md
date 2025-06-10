@@ -1,1 +1,1 @@
-
+El siguiente paso natural es aplicar este mismo enfoque a datos propios, con el fin de validar su capacidad predictiva en nuevos entornos geológicos. Esto incluiría ajustar los parámetros del modelo para adaptarse a formaciones específicas, así como explorar la integración de datos complementarios, como información sísmica o registros de núcleos, para enriquecer aún más los resultados. La robustez del método sugiere que puede ser una herramienta valiosa para la caracterización litológica en proyectos futuros.
