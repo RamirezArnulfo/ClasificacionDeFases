@@ -7,7 +7,7 @@ Se va a crear un Jupyter Notebook que replica el código original del archivo GI
 Además, debido al tamaño del archivo de datos de entrenamiento, este no se incluye directamente en el repositorio. Sin embargo, se proporciona un enlace a la carpeta de Google Drive donde se puede descargar el conjunto de datos necesario:
 
 Datos de entrenamiento:
-https://drive.google.com/drive/folders/1EKjVR4OUMQrV7a7krzCXm8Yw2eEGDjtL
+https://drive.google.com/drive/folders/1GIkjq4fwgwbiqVQxYwoJnOJWVobZ91pL
 
 Contexto de la Competencia
 La FORCE 2020 Machine Learning Competition fue un desafío centrado en la clasificación de facies litológicas a partir de datos de pozos petroleros. Los organizadores, Bormann P., Aursand P., Dilib F., Dischington P. y Manral S., proporcionaron un conjunto de datos y un marco de trabajo para desarrollar modelos de machine learning aplicados a la geociencia. Más información sobre la competencia puede encontrarse en su repositorio oficial:
